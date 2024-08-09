@@ -2,4 +2,4 @@
 
 name= input("Ismingizni kiriting: ")
 
-print(name)
+print(f"Assalomu alaykum {name.capitalize()}")
